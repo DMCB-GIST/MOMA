@@ -7,6 +7,5 @@ The model vectorizes features and modules using a geometric approach, and focuse
 # MOMA workflow
 <img src="https://user-images.githubusercontent.com/37695581/108036011-027d8180-707b-11eb-8bac-d484b7cbb2d2.jpg" width="70%" height="70%"> 
 <br/>
-<br/>
 <img src="https://user-images.githubusercontent.com/37695581/108036374-7d469c80-707b-11eb-9392-1498bd00be32.png" width="70%" height="70%">
 
