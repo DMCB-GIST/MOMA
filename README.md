@@ -5,4 +5,4 @@ MOMA can capture **important biological processes for high diagnostic performanc
 The model vectorizes features and modules using a geometric approach, and focuses on important modules in multi-omics data via an attention mechanism.
 
 # MOMA workflow
-<img width="150" src="https://github.com/SehwanMoon/MOMA/files/5986933/figure.pdf">
+![gifure](https://github.com/SehwanMoon/MOMA/files/5986933/figure.pdf)
