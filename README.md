@@ -4,6 +4,12 @@ MOMA is a **multi-task attention learning model** that provides a general classi
 MOMA can capture **important biological processes for high diagnostic performance** and **interpretability**.<br/>
 The model vectorizes features and modules using a geometric approach, and focuses on important modules in multi-omics data via an attention mechanism.
 
+⭐
+== The appropriate hyperparameters will vary for various multi-modal data and tasks. ==
+==The following is an empirical priority order, and it is recommended to put it on the tuning list at a minimum.==
+==Number of module = 16, 32, 64, 128, ... ==
+==LearningRate = 5e-7, 5e-6, 5e-5, 5e-4, ... (with ADAM on PyTorch)==
+
 ## MOMA workflow
 <img src="https://user-images.githubusercontent.com/37695581/108037054-62285c80-707c-11eb-9048-380fac6e58d8.jpg" width="90%" height="90%"> 
 <br/>
