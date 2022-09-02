@@ -7,6 +7,7 @@ The model vectorizes features and modules using a geometric approach, and focuse
 
 * * *
 ⭐⭐⭐<br/>
+**The appropriate hyperparameters are different according to various multi-modal data and tasks.<br/>**
  **The following is an empirical priority order, and it is recommended to put it on the tuning list at a minimum.<br/>**
  **Number of module = 16, 32, 64, 128, ... <br/>**
  **LearningRate = 5e-7, 5e-6, 5e-5, 5e-4, ... (with ADAM on PyTorch) <br/>**
