@@ -4,6 +4,8 @@ MOMA is a **multi-task attention learning model** that provides a general classi
 MOMA can capture **important biological processes for high diagnostic performance** and **interpretability**.<br/>
 The model vectorizes features and modules using a geometric approach, and focuses on important modules in multi-omics data via an attention mechanism.
 
+* * *
+
 ###  We found that there was a download error related to the supplementary material, so we uploaded the file. 
 
 * * *
